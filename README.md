@@ -102,7 +102,7 @@ Each project folder contains:
 # 🔗 Connect With Me
 
 ### LinkedIn
-[(Add Your LinkedIn Profile Link Here)](https://www.linkedin.com/in/suryarajput007/)
+(https://www.linkedin.com/in/suryarajput007/)
 
 ### GitHub
 (Add Your GitHub Profile Link Here)
