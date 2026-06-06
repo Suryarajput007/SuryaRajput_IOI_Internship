@@ -37,25 +37,6 @@ A simple AI-powered customer support chatbot that answers frequently asked custo
 
 ---
 
-## 2️⃣ Image Classification System
-
-### Description
-An AI-based image classification system that classifies images into different categories using Deep Learning techniques.
-
-### Features
-- Image Processing
-- Image Classification
-- Deep Learning Model
-- CNN Architecture
-
-### Technologies Used
-- Python
-- TensorFlow
-- Keras
-- NumPy
-
----
-
 ## 3️⃣ Resume Screening Assistant
 
 ### Description
@@ -121,13 +102,13 @@ Each project folder contains:
 # 🔗 Connect With Me
 
 ### LinkedIn
-(Add Your LinkedIn Profile Link Here)
+[(Add Your LinkedIn Profile Link Here)](https://www.linkedin.com/in/suryarajput007/)
 
 ### GitHub
 (Add Your GitHub Profile Link Here)
 
 ### Email
-(Add Your Email Here)
+r19surya@gmail.com
 
 ---
 
