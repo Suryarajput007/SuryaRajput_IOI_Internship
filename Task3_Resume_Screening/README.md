@@ -1,177 +1,158 @@
-## `# 📄 Resume Screening Assistant` 
+# 📄 AI Resume Screening Assistant
 
-## `## Overview` 
+## Overview
 
-```
-The Resume Screening Assistant is an AI-inspired system that automatically
-evaluates resumes based on predefined skills and requirements. It helps
-streamline the recruitment process by identifying suitable candidates
-efficiently.
-```
+The AI Resume Screening Assistant is a Python-based application that automates the initial resume evaluation process. It analyzes resume content, identifies relevant skills, calculates a score, and provides candidate recommendations based on predefined job requirements.
 
-```
+This project demonstrates how automation and AI-inspired logic can be used to simplify recruitment and candidate shortlisting processes.
+
 ---
-```
 
-## `## Objective` 
+## Objective
 
-```
-To automate resume analysis and candidate shortlisting using Python.
-```
+The main objective of this project is to automate resume screening by matching candidate skills with required job skills and generating an evaluation report.
 
-## `---` 
-
-## `## Features` 
-
-- `Resume Evaluation` 
-
-- `Skill Matching` 
-
-- `Candidate Shortlisting` 
-
-- `Automated Scoring` 
-
-- `Easy Customization` 
-
-## `---` 
-
-## `## Technologies Used` 
-
-- `Python` 
-
-- `Text Processing` 
-
-- `Rule-Based Artificial Intelligence` 
-
-```
 ---
-```
 
-## `## Project Structure` 
+## Features
 
-## ````` 
+✅ Automated Resume Analysis
 
-```
+✅ Skill Detection and Matching
+
+✅ Resume Scoring System
+
+✅ Candidate Shortlisting
+
+✅ Missing Skills Identification
+
+✅ Recommendation Generation
+
+✅ Professional Resume Evaluation Report
+
+---
+
+## Technologies Used
+
+- Python
+- Visual Studio Code
+- GitHub
+
+---
+
+## Required Skills
+
+The system evaluates resumes based on the following skills:
+
+- Python
+- Java
+- SQL
+- Machine Learning
+- Communication
+- Teamwork
+- Problem Solving
+
+---
+
+## Project Structure
+
+```text
 Task3_Resume_Screening/
 │
 ├── resume_screening.py
 ├── README.md
 └── screenshots/
 ```
-```
 
-```
 ---
-```
 
-## `## How It Works` 
+## How It Works
 
-```
-The system:
-```
+1. User enters or pastes resume text.
+2. The system scans the resume for predefined skills.
+3. Matching skills are identified.
+4. A score is calculated based on skill matches.
+5. Missing skills are displayed.
+6. Candidate status is generated automatically.
+7. Recommendations are provided.
 
-`1. Accepts resume text as input` 
-
-`2. Searches for required skills` 
-
-`3. Calculates a matching score` 
-
-`4. Generates a screening result` 
-
-```
 ---
-```
 
-```
-## Required Skills Example
-```
+## Candidate Evaluation Criteria
 
-```
-- Python
-```
+| Score Range | Status |
+|------------|---------|
+| 80 - 100 | 🏆 Highly Recommended |
+| 60 - 79 | ✅ Shortlisted |
+| 40 - 59 | ⚠️ Consider for Interview |
+| Below 40 | ❌ Not Shortlisted |
 
-- `Java` 
-
-- `SQL` 
-
-- `Machine Learning` 
-
-```
 ---
+
+## Sample Input
+
+```text
+I am a motivated BCA student with strong knowledge of Python, SQL, Machine Learning, Communication, Teamwork and Problem Solving skills.
 ```
 
-```
-## Run the Project
-```
-
-```
-```bash
-python resume_screening.py
-```
-```
-
-```
 ---
+
+## Sample Output
+
+```text
+📊 RESUME ANALYSIS REPORT
+
+Skills Found:
+• Python
+• SQL
+• Machine Learning
+• Communication
+• Teamwork
+• Problem Solving
+
+Overall Resume Score: 85/100
+
+Candidate Status: 🏆 Highly Recommended
 ```
 
-## `## Sample Output` 
-
-```
-```
-```
-
-```
-Paste Resume Text:
-```
-
-```
-I know Python, SQL and Machine Learning.
-Resume Score: 3 / 4
-```
-
-```
-Result: Shortlisted
-```
-```
-
-```
 ---
-```
 
-```
 ## Learning Outcomes
-```
 
-- `Text Analysis` 
+Through this project, I learned:
 
-- `Recruitment Automation` 
+- Python Programming
+- Text Processing
+- Logic Building
+- Automation Concepts
+- AI-Based Decision Systems
+- Software Development Workflow
+- GitHub Project Management
 
-- `Python Programming` 
-
-- `AI-Based Decision Making` 
-
-```
 ---
-```
 
-## `## Future Enhancements` 
+## Future Enhancements
 
-- `PDF Resume Parsing` 
+- PDF Resume Parsing
+- Resume Ranking System
+- Machine Learning Based Screening
+- Multiple Job Role Support
+- Web-Based User Interface
+- Advanced NLP Integration
 
-- `Machine Learning Integration` 
-
-- `Resume Ranking System` 
-
-- `Skill Recommendation Engine` 
-
-```
 ---
-```
 
-## `## Author` 
+## Author
 
-```
 **Surya Rajput**
-BCA Student | CORE University
-```
 
+BCA Student  
+CORE University, Roorkee
+
+---
+
+## Internship Program
+
+This project was completed as part of the **Interns of Industry (IOI) Internship Program**.
+
+🚀 Learning • Building • Growing
