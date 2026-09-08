@@ -104,9 +104,6 @@ Each project folder contains:
 ### LinkedIn
 (https://www.linkedin.com/in/suryarajput007/)
 
-### GitHub
-(Add Your GitHub Profile Link Here)
-
 ### Email
 r19surya@gmail.com
 
